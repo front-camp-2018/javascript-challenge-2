@@ -1,0 +1,9 @@
+.remove {
+  color: red;
+  font-size: 10px;
+  padding: 0 10px;
+  &:hover {
+    color: darkred;
+    cursor: pointer;
+  }
+}
